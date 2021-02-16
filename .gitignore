@@ -1,0 +1,5 @@
+# Package artifacts
+venv/**
+*.pyc
+**/*.egg-info/**
+**/.pytest_cache/**
